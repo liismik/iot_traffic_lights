@@ -41,7 +41,4 @@ https://drive.google.com/drive/folders/1-4XkM9C6l1IehAyPvFdQICfQpaHqBhPo?usp=sha
 ```
 
 ### NodeMCU joonis (Joonisel Arduino, asenda NodeMCU'ga)
-```
 ![image](https://user-images.githubusercontent.com/70939470/214473327-fda7038a-b10b-4fcd-b7b5-a69386b4f420.png)
-
-```
